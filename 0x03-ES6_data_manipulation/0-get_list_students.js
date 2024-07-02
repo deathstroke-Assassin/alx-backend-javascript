@@ -13,5 +13,3 @@ function getListStudents() {
     ];
     return students;
 }
-
-module.exports = getListStudents;
